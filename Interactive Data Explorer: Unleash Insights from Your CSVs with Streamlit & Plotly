@@ -1,0 +1,51 @@
+
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
+# Set colorful theme for Streamlit app (optional)
+st.set_page_config(page_title="Interactive Data Explorer", layout="wide")
+
+# Title and description with colorful Markdown formatting
+st.title("Interactive Data Explorer ")
+st.markdown(
+    """
+    This app lets you explore your data in a fun and interactive way!
+
+    **Features:**
+    - Upload CSV files
+    - Create various visualizations
+    - View descriptive statistics
+
+    **Instructions:**
+    1. Upload your CSV data.
+    2. Select the chart type you want to create.
+    3. Customize the visualization by clicking and dragging elements.
+    """
+)
+
+# File upload with progress bar
+uploaded_file = st.file_uploader("Upload your CSV file here:", type="csv")
+
+# Data processing and visualization logic
+if uploaded_file is not None:
+    df = pd.read_csv(uploaded_file)
+
+    # Descriptive statistics
+    st.subheader("Descriptive Statistics")
+    st.dataframe(df.describe(include="all"))
+
+    # Visualization selection with colored radio buttons
+    chart_type = st.radio("Choose a chart type:", ("Bar", "Line", "Scatter"))
+
+    # Interactive visualization with Plotly
+    if chart_type == "Bar":
+        fig = px.bar(df, x="column_name", y="other_column_name", title="Bar Chart")  # Adjust column names
+    elif chart_type == "Line":
+        fig = px.line(df, x="column_name", y="other_column_name", title="Line Chart")  # Adjust column names
+    else:
+        fig = px.scatter(df, x="column_name", y="other_column_name", title="Scatter Plot")  # Adjust column names
+
+    st.plotly_chart(fig, use_container_width=True)
+
+st.success("Done! Explore your data and have fun!")
