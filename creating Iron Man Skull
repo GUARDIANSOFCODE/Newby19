@@ -1,0 +1,49 @@
+#include <stdio.h>
+#include <graphics.h> // Replace with your graphics library header
+
+int main() {
+  int gd = DETECT, gm;
+
+  initgraph(&gd, &gm, ""); // Initialize graphics mode (replace with your library's function)
+
+  // Set colors (adjust as needed)
+  int headColor = WHITE;
+  int eyeColor = YELLOW;
+  int arcColor = RED;
+
+  // Define center coordinates for the skull
+  int centerX = getmaxx() / 2;
+  int centerY = getmaxy() / 2;
+
+  // Head (circle)
+  circle(centerX, centerY, 100);
+  setfillstyle(SOLID_FILL, headColor);
+  floodfill(centerX, centerY, headColor);
+
+  // Eyes (arcs)
+  int eyeRadius = 30;
+  int eyeYOffset = -20; // Adjust for placement
+
+  arc(centerX - eyeRadius, centerY + eyeYOffset, 0, 360, eyeRadius, eyeRadius);
+  arc(centerX + eyeRadius, centerY + eyeYOffset, 0, 360, eyeRadius, eyeRadius);
+  setfillstyle(SOLID_FILL, eyeColor);
+  floodfill(centerX - eyeRadius, centerY + eyeYOffset, eyeColor);
+  floodfill(centerX + eyeRadius, centerY + eyeYOffset, eyeColor);
+
+  // Mask (trapezoid with arc)
+  int maskWidth = 80;
+  int maskHeight = 60;
+  int maskYOffset = 30; // Adjust for placement
+
+  line(centerX - maskWidth / 2, centerY + maskYOffset, centerX + maskWidth / 2, centerY + maskYOffset);
+  line(centerX - maskWidth / 2, centerY + maskYOffset, centerX, centerY + maskYOffset + maskHeight);
+  line(centerX + maskWidth / 2, centerY + maskYOffset, centerX, centerY + maskYOffset + maskHeight);
+  arc(centerX, centerY + maskYOffset + maskHeight, 0, 180, maskWidth / 2, maskHeight / 2);
+  setfillstyle(SOLID_FILL, arcColor);
+  floodfill(centerX, centerY + maskYOffset + maskHeight, arcColor);
+
+  getch(); // Wait for key press to close graphics window (replace with your library's function)
+  closegraph(); // Close graphics mode (replace with your library's function)
+
+  return 0;
+}
