@@ -15,14 +15,13 @@ Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 </p>
 
 
-
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newby19&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Newby19" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Newby19&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Newby19" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Newby19&theme=highcontrast&hide_border=true" alt="Newby19" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newby19&show_icons=true&theme=blue-green&title_color=00b894&text_color=ffffff&bg_color=2d3436&locale=en&layout=compact&hide_border=true" alt="Newby19" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Newby19&show_icons=true&theme=blue-green&title_color=00b894&text_color=ffffff&bg_color=2d3436&locale=en&hide_border=true" alt="Newby19" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Newby19&theme=blue-green&hide_border=true" alt="Newby19" />
 </p>
-  
+
 [![](https://img.shields.io/badge/-@Newby19-%23181717?style=flat-square&logo=github)](https://github.com/Newby19)
 [![](https://img.shields.io/badge/-@Newby19-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Newby19)
 [![](https://img.shields.io/badge/-Newby19-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-sharma-6342532b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
