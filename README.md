@@ -12,7 +12,11 @@ Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
     
   </tr>
   </table>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Newby19&theme=dracula)
+## GitHub Activity Graph 📊
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newby19&theme=dracula" alt="Newby19 GitHub Activity Graph">
+</p>
+
 
 
 ## Stats📈
