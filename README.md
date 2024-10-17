@@ -12,7 +12,8 @@ Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
     
   </tr>
   </table>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Newby19&theme=react-dark
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Newby19&theme=dracula)
+
 
 ## Stats📈
 <p align="center">
