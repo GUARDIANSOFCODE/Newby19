@@ -1,6 +1,4 @@
 <h1>Salut, je suis Newby19 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-<p>💻 Explorateur de code, débogueur en herbe et toujours prêt pour de nouvelles aventures numériques. 🚀</p>
-<p>✨ "Apprendre, c'est coder; coder, c'est apprendre." ✨</p>
 
 <table>
   <tr>
