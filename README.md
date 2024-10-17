@@ -1,11 +1,5 @@
 Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<div style="display: flex; align-items: center; background: #2c3e50; border-radius: 10px; padding: 20px; color: #ffffff;">
-    <img src="https://example.com/joker-image.jpg" alt="Joker" style="width: 150px; height: auto; border-radius: 10px; margin-right: 20px;">
-    <div>
-        <h2 style="font-family: 'Courier New', Courier, monospace; color: #ffcc00;">"Why so serious?"</h2>
-        <p style="font-family: 'Courier New', Courier, monospace;">Dive into the world of science and fiction!</p>
-    </div>
-</div>
+
 
 
 <table>
