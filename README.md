@@ -15,7 +15,7 @@ Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
   
 ## GitHub Activity Graph 📊
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newby19&theme=chartreuse-dark" alt="Newby19 GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newby19&theme=neon" alt="Newby19 GitHub Activity Graph">
 </p>
 
 
