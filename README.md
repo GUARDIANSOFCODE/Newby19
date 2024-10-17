@@ -1,4 +1,22 @@
-Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Newby19's Awesome Page
+
+Welcome to Newby19's Awesome Page! This is a simple web page that showcases floating text using HTML and CSS.
+
+## Live Demo
+
+You can view the live demo of the page [here](https://Newby19.github.io/repository-name/).
+
+## Features
+
+- Floating text animation
+- Responsive design
+
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Newby19/repository-name.git
+
 
 
 
