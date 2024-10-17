@@ -8,7 +8,7 @@ Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
       ✨ I love to create different types of **contents**.
 <td >
 
-    </td>
+    
     
   </tr>
   </table>
