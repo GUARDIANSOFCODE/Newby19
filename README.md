@@ -16,13 +16,13 @@ Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Newby19&theme=dracula" alt="Newby19 GitHub Activity Graph">
 </p>
-
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newby19&show_icons=true&theme=ayu&title_color=ffb86c&text_color=ffffff&bg_color=282a36&locale=en&layout=compact&hide_border=true" alt="Newby19" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Newby19&show_icons=true&theme=ayu&title_color=ffb86c&text_color=ffffff&bg_color=282a36&locale=en&hide_border=true" alt="Newby19" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Newby19&theme=ayu&hide_border=true" alt="Newby19" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newby19&show_icons=true&theme=blue-green&title_color=00ffff&text_color=ffffff&bg_color=003d33&locale=en&layout=compact&hide_border=true" alt="Newby19" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Newby19&show_icons=true&theme=blue-green&title_color=00ffff&text_color=ffffff&bg_color=003d33&locale=en&hide_border=true" alt="Newby19" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Newby19&theme=blue-green&hide_border=true" alt="Newby19" />
 </p>
+
 
 
 
