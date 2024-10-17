@@ -2,20 +2,21 @@
 <p>💻 Explorateur de code, débogueur en herbe et toujours prêt pour de nouvelles aventures numériques. 🚀</p>
 <p>✨ "Apprendre, c'est coder; coder, c'est apprendre." ✨</p>
 
-
-
-
-
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my Bachelor's in Computer Science Engineering.
-      🌱 I am currently learning Java and also interested in Web Development.
-      🎯 My Goal is to Contribute to as many open source project as possible.
-      ✨ I love to create different types of contents.
-<td >
+      🌟 "Aim for the MOON. If you miss, you MAY hit the STAR." 🌠
+      <br>
+      <br>
+      With that warm quote, let's explore my profile! 🚀
+    </td>
   </tr>
-  </table>
+</table>
+
+
+
+
+
   
 ## GitHub Activity Graph 📊
 <p align="center">
