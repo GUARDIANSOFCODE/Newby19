@@ -1,4 +1,24 @@
 Hi, I'm Newby19<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<div style="border: 2px solid #ffffff; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1a1a1a, #333); color: #ffffff; text-align: center;">
+    <h2 style="font-family: 'Courier New', Courier, monospace; color: #ffcc00;">Welcome to My Profile!</h2>
+    <p style="font-family: 'Courier New', Courier, monospace;">
+        "It's not who I am underneath, but what I do that defines me." - <strong>Batman</strong>
+    </p>
+    <p style="font-family: 'Courier New', Courier, monospace;">
+        "I am Iron Man." - <strong>Iron Man</strong>
+    </p>
+    <p style="font-family: 'Courier New', Courier, monospace;">
+        "We are Venom." - <strong>Venom</strong>
+    </p>
+    <p style="font-family: 'Courier New', Courier, monospace;">
+        "Why so serious?" - <strong>The Joker</strong>
+    </p>
+    <p style="font-family: 'Courier New', Courier, monospace;">
+        "In science, there is only physics; all the rest is stamp collecting." - <strong>Ernest Rutherford</strong>
+    </p>
+    <h3 style="color: #00ffcc;">Join me on this epic journey through science and fiction!</h3>
+</div>
+
 <table>
   <tr>
     <td valign="center">
