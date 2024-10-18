@@ -23,14 +23,13 @@
 
 
 
-
-
-# Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newby19&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="Newby19" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newby19&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true&v=3" alt="Newby19" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Newby19&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="Newby19" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Newby19&theme=neon&hide_border=true" alt="Newby19" />
 </p>
+
+
 
 [![](https://img.shields.io/badge/-@Newby19-%23181717?style=flat-square&logo=github)](https://github.com/Newby19)
 [![](https://img.shields.io/badge/-@Newby19-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Newby19)
