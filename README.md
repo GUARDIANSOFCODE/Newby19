@@ -1,20 +1,6 @@
 <h1>Salut, je suis Newby19 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-<style>
-  .quote-table {
-    border: 3px solid #00ff00; /* Green neon border */
-    border-radius: 15px; /* Rounded corners */
-    padding: 20px;
-    background: linear-gradient(135deg, #000000, #0a0a0a); /* Dark gradient background */
-    color: #ffffff; /* White text */
-    box-shadow: 0px 0px 15px rgba(0, 255, 0, 0.5); /* Neon green glow */
-    text-align: center; /* Center-align text */
-    font-family: 'Trebuchet MS', sans-serif; /* Smooth, readable font */
-    font-size: 1.2em; /* Slightly larger font */
-  }
-</style>
-
-<table class="quote-table">
+<table style="border: 3px solid #00ff00; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #000000, #0a0a0a); color: #ffffff; box-shadow: 0px 0px 15px rgba(0, 255, 0, 0.5); text-align: center; font-family: 'Trebuchet MS', sans-serif; font-size: 1.2em; width: 100%;">
   <tr>
     <td valign="center">
       🌟 "Aim for the MOON. If you miss, you MAY hit the STAR." 🌠
