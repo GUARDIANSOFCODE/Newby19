@@ -90,8 +90,15 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sankalp-sharma-6342532b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sankalp-sharma-6342532b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/cascabellah/profilecard/?igsh=mxi2ohzonwt5othong==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cascabellah/profilecard/?igsh=mxi2ohzonwt5othong==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@cascabellah?si=aw9dswtllesdmvl0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@cascabellah?si=aw9dswtllesdmvl0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bkj6qh0wdp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bkj6qh0wdp" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Your LinkedIn Profile" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Qwgcbnjh5166527_516_/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
