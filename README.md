@@ -56,10 +56,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Newby19</h1>
-<h3 align="center">🎓 I am currently pursuing my Bachelor's in Computer Science Engineering. 🌱 I am currently learning Java and also interested in Web Development. 🎯 My Goal is to Contribute to as many open source project as possible. ✨ I love to create different types of contents.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newby19&label=Profile%20views&color=0e75b6&style=flat" alt="newby19" /> </p>
 
 
 
