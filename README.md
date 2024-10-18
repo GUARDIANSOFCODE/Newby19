@@ -52,7 +52,7 @@
 
 - 🤝 I’m looking for help with **Task Management**
 
-- 💬 Ask me about **Atoms, Equations and Graphs**
+- 💬 Ask me about **Atoms, Equations and Spider-man**
 
 - 📫 How to reach me **workwithsankalp@gmail.com**
 
