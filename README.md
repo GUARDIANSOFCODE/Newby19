@@ -82,6 +82,12 @@
 - ⚡ Fun fact **I like Physics**
 
 
+<p style="text-align: center; font-size: 1.5em; color: #ffcc00; font-family: 'Trebuchet MS', sans-serif;">
+  🌟 If you're enjoying the content so far, give it a thumbs up and follow! Your support means the world! 🌟
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sankalp-sharma-6342532b4" target="_blank">
