@@ -74,14 +74,6 @@
 </div>
 
 
-<div class="joke-panel">
-  <h3>😞 It's just a bad day, not a bad life. 😄</h3>
-  <p id="joke">Why do programmers prefer dark mode? Because light attracts bugs!</p>
-  <p>😟😐🙂😄</p>
-</div>
-
-
-
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
