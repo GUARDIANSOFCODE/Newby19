@@ -53,13 +53,28 @@
 [![](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cascabellah/profilecard/?igsh=MXI2OHZoNWt5OThoNg==)
 
 
-<div style="border: 3px solid #ffcc00; border-radius: 15px; padding: 20px; background-color: #333333; color: #ffffff; text-align: center; box-shadow: 0 0 20px rgba(255, 204, 0, 0.8);">
-  <h3 style="margin: 0; color: #ffcc00; font-family: 'Arial', sans-serif;">😄 Joke of the Day:</h3>
-  <p style="font-size: 1.5em; font-family: 'Trebuchet MS', sans-serif; color: #00ff00;">Why do programmers prefer dark mode?</p>
-  <p style="font-size: 1.2em; color: #ffcc00;">Because light attracts bugs! 😂</p>
-  <br>
-  <p style="font-size: 1.1em;">👈 Come back tomorrow for another joke!</p>
+<style>
+  .joke-panel {
+    border: 3px solid #00ff00; /* Green neon border */
+    border-radius: 15px; /* Rounded corners */
+    padding: 20px;
+    background: linear-gradient(135deg, #000000, #0a0a0a); /* Dark gradient background */
+    color: #ffffff; /* White text */
+    box-shadow: 0px 0px 15px rgba(0, 255, 0, 0.5); /* Neon green glow */
+    text-align: center; /* Center-align text */
+    font-family: 'Trebuchet MS', sans-serif; /* Smooth, readable font */
+    font-size: 1.2em; /* Slightly larger font */
+  }
+</style>
+
+<div class="joke-panel">
+  <h3>😞 It's just a bad day, not a bad life. 😄</h3>
+  <p id="joke">Why do programmers prefer dark mode? Because light attracts bugs!</p>
+  <p>😟😐🙂😄</p>
 </div>
+
+
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
