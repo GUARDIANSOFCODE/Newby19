@@ -61,9 +61,9 @@
   <p style="font-size: 1.1em;">👈 Come back tomorrow for another joke!</p>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=newby19&theme=darkhub&row=1&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&style=flat&title=Achievements&titleColor=FFD700&background=000000" alt="newby19" />
+    <img src="https://github-profile-trophy.vercel.app/?username=newby19&theme=radical&row=1&column=4&margin-w=20&margin-h=20&no-frame=true&no-bg=true" alt="newby19" />
   </a>
 </p>
 
