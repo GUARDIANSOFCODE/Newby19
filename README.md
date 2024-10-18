@@ -37,6 +37,15 @@
 [![](https://img.shields.io/badge/-Newby19-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-sharma-6342532b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cascabellah/profilecard/?igsh=MXI2OHZoNWt5OThoNg==)
 
+# Interactive Tic Tac Toe Game 🎮
+
+Click the link below to play:
+[Play Tic Tac Toe](https://username.github.io/interactive-tic-tac-toe)
+
+![Tic Tac Toe Preview](./screenshot.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Newby19</h1>
 <h3 align="center">🎓 I am currently pursuing my Bachelor's in Computer Science Engineering. 🌱 I am currently learning Java and also interested in Web Development. 🎯 My Goal is to Contribute to as many open source project as possible. ✨ I love to create different types of contents.</h3>
 
