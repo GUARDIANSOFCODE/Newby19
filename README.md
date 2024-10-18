@@ -65,7 +65,7 @@ Click the link below to play:
 
 - 💬 Ask me about **Atoms, Equations and Spider-man**
 
-- 📫 How to reach me **workwithsankalp@gmail.com**
+- 📫 How to reach me **workwithsankalp008@gmail.com**
 
 - ⚡ Fun fact **I like Physics**
 
