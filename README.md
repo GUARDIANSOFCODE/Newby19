@@ -68,6 +68,13 @@
 </style>
 
 <div class="joke-panel">
+  😞 It's just a bad day, not a bad life. 😄<br>
+  Why do programmers prefer dark mode? Because light attracts bugs!<br>
+  😟😐🙂😄
+</div>
+
+
+<div class="joke-panel">
   <h3>😞 It's just a bad day, not a bad life. 😄</h3>
   <p id="joke">Why do programmers prefer dark mode? Because light attracts bugs!</p>
   <p>😟😐🙂😄</p>
