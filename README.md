@@ -23,7 +23,7 @@
 
 
 
-## STATS 
+ ## Stats📈
 <h1 align="center">Hi 👋, I'm Newby19</h1>
 <h3 align="center">A passionate developer exploring new technologies and coding challenges</h3>
 
