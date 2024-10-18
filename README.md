@@ -53,6 +53,13 @@
 [![](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cascabellah/profilecard/?igsh=MXI2OHZoNWt5OThoNg==)
 
 
+<div style="border: 3px solid #ffcc00; border-radius: 15px; padding: 20px; background-color: #333333; color: #ffffff; text-align: center; box-shadow: 0 0 20px rgba(255, 204, 0, 0.8);">
+  <h3 style="margin: 0; color: #ffcc00; font-family: 'Arial', sans-serif;">😄 Joke of the Day:</h3>
+  <p style="font-size: 1.5em; font-family: 'Trebuchet MS', sans-serif; color: #00ff00;">Why do programmers prefer dark mode?</p>
+  <p style="font-size: 1.2em; color: #ffcc00;">Because light attracts bugs! 😂</p>
+  <br>
+  <p style="font-size: 1.1em;">👈 Come back tomorrow for another joke!</p>
+</div>
 
 
 
