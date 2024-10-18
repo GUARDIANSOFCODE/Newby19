@@ -53,25 +53,7 @@
 [![](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cascabellah/profilecard/?igsh=MXI2OHZoNWt5OThoNg==)
 
 
-<style>
-  .joke-panel {
-    border: 3px solid #00ff00; /* Green neon border */
-    border-radius: 15px; /* Rounded corners */
-    padding: 20px;
-    background: linear-gradient(135deg, #000000, #0a0a0a); /* Dark gradient background */
-    color: #ffffff; /* White text */
-    box-shadow: 0px 0px 15px rgba(0, 255, 0, 0.5); /* Neon green glow */
-    text-align: center; /* Center-align text */
-    font-family: 'Trebuchet MS', sans-serif; /* Smooth, readable font */
-    font-size: 1.2em; /* Slightly larger font */
-  }
-</style>
 
-<div class="joke-panel">
-  😞 It's just a bad day, not a bad life. 😄<br>
-  Why do programmers prefer dark mode? Because light attracts bugs!<br>
-  😟😐🙂😄
-</div>
 
 
 
