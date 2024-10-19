@@ -1,9 +1,9 @@
-name: Update README
+   name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   build:
@@ -13,5 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          # Specify your GitHub username
+          username: Newby19
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
