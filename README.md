@@ -54,6 +54,7 @@
 
 
 
+![Your contributions](https://github.com/Newby19/github-activity-graph.svg)
 
 
 
