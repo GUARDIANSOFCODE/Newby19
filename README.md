@@ -88,6 +88,10 @@
 </p>
 
 
+[![Like](https://img.icons8.com/color/48/000000/facebook-like.png)](https://github.com/your-profile)
+[![Heart](https://img.icons8.com/color/48/000000/like--v1.png)](https://github.com/your-profile)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
