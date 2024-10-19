@@ -31,7 +31,7 @@
   <img src="https://media.giphy.com/media/3o7aD4vNCFRuNQ5zMA/giphy.gif" width="200"/>
 </p>
 
-<h3 align="center">Languages I Know:</h3>
+<h3 align="center">Languages I Know:</h3>    
 <p align="center">
   <img src="https://img.shields.io/badge/English-%F0%9F%87%AC%F0%9F%87%A7-blue?style=for-the-badge" alt="English" />
   <img src="https://img.shields.io/badge/Hindi-%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge" alt="Hindi" />
