@@ -88,8 +88,12 @@
 </p>
 
 
-[![Like](https://example.com/like-icon.png)](https://github.com/your-profile)
-[![Heart](https://example.com/heart-icon.png)](https://github.com/your-profile)
+<a href="https://github.com/your-profile">
+  <img src="https://img.icons8.com/color/48/000000/facebook-like.png" alt="Like" width="60" style="margin-right: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</a>
+<a href="https://github.com/your-profile">
+  <img src="https://img.icons8.com/color/48/000000/like--v1.png" alt="Heart" width="60" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+</a>
 
 
 
