@@ -87,9 +87,9 @@
   🌟 If you're enjoying the content so far, give it a thumbs up and follow! Your support means the world! 🌟
 </p>
 
-[![Like](https://your-image-host.com/like-icon.png)](https://github.com/your-profile)
-[![Heart](https://your-image-host.com/heart-icon.png)](https://github.com/your-profile)
 
+[![Like](https://example.com/like-icon.png)](https://github.com/your-profile)
+[![Heart](https://example.com/heart-icon.png)](https://github.com/your-profile)
 
 
 
