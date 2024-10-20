@@ -1,0 +1,33 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - master  # Change this to your main branch if different
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Snake Animation
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user_name: Newby19  # Replace with your GitHub username
+          outputs: "dist/github-contribution-grid-snake.svg"
+
+      - name: Upload Snake to Repository
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master  # Replace with your main branch if different
+          force: true
+          commit_message: "Updated Contribution Snake Animation"
+          file: "dist/github-contribution-grid-snake.svg"
