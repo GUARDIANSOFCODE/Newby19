@@ -57,8 +57,8 @@
 
 ## Contribution Snake
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Newby19/Newby19/output/github-contribution-grid-snake.svg)
 
-![GitHub Contribution Snake](https://github.com/Newby19/Newby19/blob/output/github-contribution-grid-snake.svg)
 
 
 
