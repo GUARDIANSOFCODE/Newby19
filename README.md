@@ -57,7 +57,8 @@
 
 ## Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Newby19/Newby19/master/dist/snake.svg)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Newby19/Newby19/master/snake.svg)
 
 
 
