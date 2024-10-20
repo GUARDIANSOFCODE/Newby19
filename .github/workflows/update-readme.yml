@@ -1,20 +1,17 @@
-   name: Update README
+name: Update README for Newby19
 
 on:
   schedule:
     - cron: '*/5 * * * *'  # Runs every 5 minutes
-  workflow_dispatch:  # Allows manual triggering of the workflow
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update Newby19's repo README with recent activity
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          # Specify your GitHub username
-          username: Newby19
+      - uses: jamesgeorge007/github-activity-readme@v1.0.1  # Use a specific version
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
