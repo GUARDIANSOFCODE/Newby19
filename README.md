@@ -11,12 +11,12 @@
   </tr>
 </table>
 
-<p align='center'><a href='https://linktr.ee/pulkitxm'><img src='./images/banner.gif' height=300></a></p>
+<p align='center'><a href='https://linktr.ee/NEWBY19'><img src='./images/banner.gif' height=300></a></p>
 
 <br>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+Pulkit;Hello!+I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+NEWBY19;Hello!+I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
 <br>
-<a href='https://holopin.io/@pulkitxm'><img src='https://holopin.me/pulkitxm'>
+<a href='https://holopin.io/@NEWBY19'><img src='https://holopin.me/NEWBY19'></a>
 <br>
 <h1 align="center"><p align="center"><img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" width="160" height="40" /><img src="./images/wave.gif" alt="Animated GIF" width="40" height="40"  /></p></h1>
 
@@ -25,19 +25,17 @@
 
 <img align="right" alt="Coding" width="400" src="images/programmer.gif">
 
-<p align="center"><img src="https://profile-counter.glitch.me/{pulkitxm}/count.svg" alt="pulkitxm :: Visitor's Count" />
-</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{NEWBY19}/count.svg" alt="NEWBY19 :: Visitor's Count" /></p>
 
 <br>
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pulkitxm?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=pulkitxm.pulkitxm" width=100 height=30/>
-&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/pulkitxm?label=Stars" alt="stars" width=100 height=30>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NEWBY19?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=NEWBY19.NEWBY19" width=100 height=30/>
+&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/NEWBY19?label=Stars" alt="stars" width=100 height=30>
 
 <br>
 
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
-<br>
 
 
 
