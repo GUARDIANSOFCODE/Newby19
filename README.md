@@ -1,4 +1,4 @@
-<h1>Salut, je suis Newby19 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1>Salut, je suis GUARDIANSOFCODE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <table style="border: 3px solid #00ff00; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #000000, #0a0a0a); color: #ffffff; box-shadow: 0px 0px 15px rgba(0, 255, 0, 0.5); text-align: center; font-family: 'Trebuchet MS', sans-serif; font-size: 1.2em; width: 100%;">
   <tr>
@@ -14,7 +14,7 @@
 <p align='center'><a href='https://linktr.ee/NEWBY19'><img src='./images/banner.gif' height=300></a></p>
 
 <br>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+NEWBY19;Hello!+I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+GUARDIANSOFCODE;Hello!+I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
 <br>
 <a href='https://holopin.io/@NEWBY19'><img src='https://holopin.me/NEWBY19'></a>
 <br>
@@ -46,7 +46,7 @@
 
 
  ## Stats📈
-<h1 align="center">Hi 👋, I'm Newby19</h1>
+<h1 align="center">Hi 👋, I'm  GUARDIANSOFCOD</h1>
 <h3 align="center">A passionate developer exploring new technologies and coding challenges</h3>
 
 <p align="center">
@@ -62,9 +62,9 @@
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newby19&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true&v=3" alt="Newby19" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Newby19&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="Newby19" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Newby19&theme=neon&hide_border=true" alt="Newby19" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuardiansOfCode&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true&v=3" alt="GuardiansOfCode" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GuardiansOfCode&show_icons=true&theme=neon&title_color=00ff00&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="GuardiansOfCode" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuardiansOfCode&theme=neon&hide_border=true" alt="GuardiansOfCode" />
 </p>
 
 
